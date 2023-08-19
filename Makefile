@@ -2,7 +2,7 @@
 VERSION = 5
 PATCHLEVEL = 10
 SUBLEVEL = 188
-EXTRAVERSION =
+EXTRAVERSION = -architecture
 NAME = Dare mighty things
 
 # *DOCUMENTATION*
